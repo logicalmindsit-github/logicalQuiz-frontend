@@ -1,0 +1,194 @@
+[
+  {
+    "class": "1",
+    "dateRange": {
+      "startDate": "2024-03-06",
+      "endDate": "2024-03-06"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "52",
+      "topics": {
+        "subtopics": "20",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "1",
+    "dateRange": {
+      "startDate": "2024-02-29",
+      "endDate": "2024-02-29"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "52",
+      "topics": {
+        "subtopics": "20",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "1",
+    "dateRange": {
+      "startDate": "2024-02-28",
+      "endDate": "2024-02-28"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "52",
+      "topics": {
+        "subtopics": "25",
+        "subtopicsName": " Subract"
+      }
+    }
+  },
+  {
+    "class": "1",
+    "dateRange": {
+      "startDate": "2024-02-27",
+      "endDate": "2024-02-27"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "52",
+      "topics": {
+        "subtopics": "20",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "1",
+    "dateRange": {
+      "startDate": "2024-01-09",
+      "endDate": "2024-01-09"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "92",
+      "topics": {
+        "subtopics": "33",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "2",
+    "dateRange": {
+      "startDate": "2024-02-20",
+      "endDate": "2024-02-20"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "34",
+      "topics": {
+        "subtopics": "81",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "3",
+    "dateRange": {
+      "startDate": "2024-02-19",
+      "endDate": "2024-02-19"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "40",
+      "topics": {
+        "subtopics": "73",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "4",
+    "dateRange": {
+      "startDate": "2024-02-20",
+      "endDate": "2024-02-20"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "82",
+      "topics": {
+        "subtopics": "53",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "5",
+    "dateRange": {
+      "startDate": "2024-02-19",
+      "endDate": "2024-02-19"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "92",
+      "topics": {
+        "subtopics": "43",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "5",
+    "dateRange": {
+      "startDate": "2024-02-09",
+      "endDate": "2024-02-09"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "92",
+      "topics": {
+        "subtopics": "33",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "6",
+    "dateRange": {
+      "startDate": "2024-02-21",
+      "endDate": "2024-02-21"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "92",
+      "topics": {
+        "subtopics": "23",
+        "subtopicsName": "Addition"
+      }
+    }
+  },
+  {
+    "class": "6",
+    "dateRange": {
+      "startDate": "2024-02-22",
+      "endDate": "2024-02-22"
+    },
+    "usageDetails": {
+      "answeredQuestions": 13,
+      "timeSpent": "09:03",
+      "scored": "92",
+      "topics": {
+        "subtopics": "25",
+        "subtopicsName": "Addition"
+      }
+    }
+  }
+]

@@ -1,0 +1,108 @@
+.question-container {
+  margin-right: 300px;
+    display: flex;
+    align-items: flex-start; 
+    margin-top: 30px;
+  }
+  .left-content {
+    flex: 1; /* take up remaining space */
+  }
+  
+  .question-heading {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .question-text {
+    margin-bottom: 20px;
+  }
+  
+  .input-box {
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .input-correct {
+    border-color: green;
+  }
+  
+  .input-incorrect {
+    border-color: red;
+  }
+  
+  .submit-button,
+  .next-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .submit-button:disabled,
+  .next-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .explanation-image {
+    max-width: 100%;
+    margin-top: 20px;
+  }
+  
+  .correct-text {
+    color: green;
+  }
+  
+  .incorrect-text {
+    color: red;
+  }
+  
+  .explanation-container {
+    margin-top: 20px;
+  }
+  .timer{
+    width: calc(100% - 65%);
+    padding: 10px;
+  }
+  /* Multiply.css */
+
+.buttons-container {
+  display: flex;
+  gap: 50px; /* Adjust the gap between buttons as needed */
+}
+
+/* In your CSS file (Review) */
+.explanation-image {
+  max-width: 100%;
+  height: auto;
+  /*  adjust the width and height as needed */
+  width: 400px; /* example width */
+  height: auto; /* maintains aspect ratio */
+}
+.results-summary {
+  margin-top: 20px; /* Example margin for spacing */
+}
+
+.summary-table {
+  width: 100%; /* Example width setting */
+  border-collapse: collapse; /* Ensure table borders collapse */
+}
+
+.summary-table td {
+  border: 1px solid #000; /* Example border styling */
+  padding: 8px; /* Example padding for cell content */
+}
+
+.summary-table th {
+  border: 1px solid #000; /* Example border styling for table headers */
+  background-color: #f2f2f2; /* Example background color for headers */
+  padding: 8px; /* Example padding for cell content */
+}
